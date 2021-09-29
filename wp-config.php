@@ -29,7 +29,7 @@ define('DB_USER', 'sql6441004');
 define('DB_PASSWORD', 'jIRYcJkJAl');
 
 /** Hostname của database */
-define('DB_HOST', 'sql6.freesqldatabase.com');
+define('DB_HOST', 'sql6.freesqldatabase.com:3306');
 
 /** Database charset sử dụng để tạo bảng database. */
 define('DB_CHARSET', 'utf8');
