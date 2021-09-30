@@ -13,7 +13,7 @@
 	<div class="box-border">
 		<ul class="lh2-ul">
 			<li>Hotline: 079 200 6263</li>
-			<li>Email: doandinhhuy2603@gmail.com</li>
+			<li>Email: dinh.huy@laichi.vn</li>
 		</ul>
 	</div>
 </div>

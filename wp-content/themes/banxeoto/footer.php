@@ -49,9 +49,9 @@
 							<p class="title">GIỚI THIỆU</p>
 							<p class="caption">ABC là công ty du lịch, với nhiều năm kinh nghiệm trong việc cung cấp dịch vụ về vận tải du lịch, tư vấn và lập kế hoạch đi...</p>
 							<ul class="lh2-ul">
-								<li><i class="fas fa-map-marker-alt"></i> 244 Điện Biên Phủ, Q. Thanh Khê, TP Đà Nẵng</li>
-								<li><i class="fas fa-phone"></i> 0905 548 836</li>
-								<li><i class="fas fa-envelope"></i> Email: inb.mycar@gmail.com</li>
+								<li><i class="fas fa-map-marker-alt"></i> 17 Đường Tôn Thất Tùng, Phường Phạm Ngũ Lão, Quận 1, Thành phố Hồ Chí Minh</li>
+								<li><i class="fas fa-phone"></i> 0792006263</li>
+								<li><i class="fas fa-envelope"></i> Email: dinh.huy@laichi.vn</li>
 							</ul>
 						</div>
 						<div class="col-lg-3 col-md-6 col-sm-6 col-12 item">
