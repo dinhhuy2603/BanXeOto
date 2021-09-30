@@ -3,17 +3,17 @@
 				<div class="responsive">
 					<div class="col-2 item-partner">
 						<div class="bg">
-							<img class="img-fluid" src="<?php bloginfo('template_directory'); ?> /img/1.png" alt="">
+							<img class="img-fluid" src="<?php bloginfo('template_directory'); ?>/img/1.png" alt="">
 						</div>
 					</div>
 					<div class="col-2 item-partner">
 						<div class="bg">
-							<img class="img-fluid" src="<?php bloginfo('template_directory'); ?> /img/2.png" alt="">
+							<img class="img-fluid" src="<?php bloginfo('template_directory'); ?>/img/2.png" alt="">
 						</div>
 					</div>
 					<div class="col-2 item-partner">
 						<div class="bg">
-							<img class="img-fluid" src="<?php bloginfo('template_directory'); ?> /img/3.png" alt="">
+							<img class="img-fluid" src="<?php bloginfo('template_directory'); ?>/img/3.png" alt="">
 						</div>
 					</div>
 					<div class="col-2 item-partner">
@@ -23,17 +23,17 @@
 					</div>
 					<div class="col-2 item-partner">
 						<div class="bg">
-							<img class="img-fluid" src="<?php bloginfo('template_directory'); ?> /img/5.png" alt="">
+							<img class="img-fluid" src="<?php bloginfo('template_directory'); ?>/img/5.png" alt="">
 						</div>
 					</div>
 					<div class="col-2 item-partner">
 						<div class="bg">
-							<img class="img-fluid" src="<?php bloginfo('template_directory'); ?> /img/6.png" alt="">
+							<img class="img-fluid" src="<?php bloginfo('template_directory'); ?>/img/6.png" alt="">
 						</div>
 					</div>
 					<div class="col-2 item-partner">
 						<div class="bg">
-							<img class="img-fluid" src="<?php bloginfo('template_directory'); ?> /img/1.png" alt="">
+							<img class="img-fluid" src="<?php bloginfo('template_directory'); ?>/img/1.png" alt="">
 						</div>
 					</div>
 				</div>
@@ -97,16 +97,16 @@
 		<a class="btn-top" id="bttop" href="javascript:void(0);" title="Top" style="display: inline;"><i class="fa fa-chevron-up" aria-hidden="true"></i></a>
 	</div>
 	<!-- Javascript -->
-  	<script src="<?php bloginfo('template_directory'); ?> /js/tether.min.js"></script>
-  	<script src="<?php bloginfo('template_directory'); ?> /js/jquery.min.js"></script>
-  	<script src="<?php bloginfo('template_directory'); ?> /js/bootstrap.min.js"></script>
-  	<script src="<?php bloginfo('template_directory'); ?> /js/wow.min.js"></script>
-  	<script src="<?php bloginfo('template_directory'); ?> /js/jquery.mmenu.all.js"></script>
-	<script src="<?php bloginfo('template_directory'); ?> /js/slick.js"></script>
-	<script src="<?php bloginfo('template_directory'); ?> /js/smoothscroll.js"></script>
-	<script src="<?php bloginfo('template_directory'); ?> /js/lightslider.js"></script>
-    <script src="<?php bloginfo('template_directory'); ?> /js/lightGallery.js"></script>
-	<script src="<?php bloginfo('template_directory'); ?> /js/main.js"></script>
+  	<script src="<?php bloginfo('template_directory'); ?>/js/tether.min.js"></script>
+  	<script src="<?php bloginfo('template_directory'); ?>/js/jquery.min.js"></script>
+  	<script src="<?php bloginfo('template_directory'); ?>/js/bootstrap.min.js"></script>
+  	<script src="<?php bloginfo('template_directory'); ?>/js/wow.min.js"></script>
+  	<script src="<?php bloginfo('template_directory'); ?>/js/jquery.mmenu.all.js"></script>
+	<script src="<?php bloginfo('template_directory'); ?>/js/slick.js"></script>
+	<script src="<?php bloginfo('template_directory'); ?>/js/smoothscroll.js"></script>
+	<script src="<?php bloginfo('template_directory'); ?>/js/lightslider.js"></script>
+    <script src="<?php bloginfo('template_directory'); ?>/js/lightGallery.js"></script>
+	<script src="<?php bloginfo('template_directory'); ?>/js/main.js"></script>
 	<?php wp_footer(); ?>
 	<div id="fb-root"></div>
 	<script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v12.0" nonce="gbauD9RO"></script>
