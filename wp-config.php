@@ -20,22 +20,22 @@
 
 // ** Thiết lập MySQL - Bạn có thể lấy các thông tin này từ host/server ** //
 /** Tên database MySQL */
-define('DB_NAME', 'r2syn3k3jc3kk0o3');
+define( 'DB_NAME', 'nomasaru_wp' );
 
-/** Username của database */
-define('DB_USER', 'g8owjy1km4s99d74');
+/** MySQL database username */
+define( 'DB_USER', 'root' );
 
-/** Mật khẩu của database */
-define('DB_PASSWORD', 'ybjev3wwf1eul8id');
+/** MySQL database password */
+define( 'DB_PASSWORD', 'xM!z&5c6' );
 
-/** Hostname của database */
-define('DB_HOST', 'nnsgluut5mye50or.cbetxkdyhwsb.us-east-1.rds.amazonaws.com');
+/** MySQL hostname */
+define( 'DB_HOST', 'localhost' );
 
-/** Database charset sử dụng để tạo bảng database. */
-define('DB_CHARSET', 'utf8');
+/** Database charset to use in creating database tables. */
+define( 'DB_CHARSET', 'utf8mb4' );
 
-/** Kiểu database collate. Đừng thay đổi nếu không hiểu rõ. */
-define('DB_COLLATE', '');
+/** The database collate type. Don't change this if in doubt. */
+define( 'DB_COLLATE', '' );
 
 /**#@+
  * Khóa xác thực và salt.
